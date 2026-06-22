@@ -13,5 +13,6 @@ The following shows the libraries along with external requirements for this appl
 - Stockfish 18 (https://stockfishchess.org/download/)
 - 64-bit Windows / Mac (only for source code) Computer
 
-### Pro Tip
-Type in the command `pip install PyQt6 python-chess stockfish` to directly install all the required libraries all at once!
+### Pro Tips
+- Type in the command `pip install PyQt6 python-chess stockfish` to directly install all the required libraries all at once!
+- Once stockfish has been downloaded, enter the stockfish folder and rename "stockfish-windows-x86-64-avx2.exe" to "stockfish.exe"
